@@ -1,0 +1,2 @@
+rootProject.name='KaptDemo'
+include ':app'
